@@ -12,7 +12,8 @@ html {
   height: 100%;
 }
 
-a {
+a,
+button {
   min-height: 44px;
   min-width: 44px;
 }
